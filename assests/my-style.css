@@ -1,0 +1,31 @@
+.Main-body-LModel {
+    /* padding: 10px 10px; */
+    border: 1px solid;
+    text-align: center;
+    width: 32%;
+}
+
+.LModel-Sec-1 {
+    background: blue;
+    padding: 55px;
+    color: white;
+}
+
+.LModel-Sec-2 {
+    background: white;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    top: -29px;
+    padding: 33px;
+    border-radius: 7px;
+}
+
+.LModel-Sec-3 {
+    background: white;
+    width: 90%;
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-bottom: 19px;
+    padding: 14px;
+}
